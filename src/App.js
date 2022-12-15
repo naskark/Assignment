@@ -25,7 +25,7 @@ const Button3 = tw.button`rounded-xl w-[8rem] h-7 border-1 border-solid border-b
 `;
 const Button4 = tw.button`rounded-xl w-[8rem] h-7 border-[1px] border-solid border-black bg-white text-black
 `;
-const Back = tw.button`flex w-[30rem] h-10 items-center justify-center content-center mt-[2rem] ml-auto mb-auto mr-auto border-solid rounded-2xl bg-[#F0F0F0] drop-shadow-lg
+const Back = tw.button`flex w-[30rem] h-10 items-center justify-center content-center mt-[2rem] ml-auto mb-[2rem] mr-auto border-solid rounded-2xl bg-[#F0F0F0] drop-shadow-lg
 `;
 const Text = tw.div`flex flex-column justify-center items-center content-center mt-[1rem] ml-auto mr-auto mb-auto text-2xl
 `;
